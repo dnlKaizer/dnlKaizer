@@ -5,7 +5,7 @@
 
 [![SBC 2026](https://img.shields.io/badge/SBC_2026-Finalista_Nacional-FFD700?style=for-the-badge)](#)
 [![CEFETMG](https://img.shields.io/badge/CEFET_MG-CR_94.5-003366.svg?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_Kaizer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-kaizer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_Kaizer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-kaizer-83b7aa3aa/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=danilokaizer&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilokaizer@gmail.com)
 
 </div>
